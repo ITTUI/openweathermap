@@ -1,0 +1,2 @@
+# openweathermap
+learning by doing
